@@ -1,6 +1,6 @@
 # League-Pedia
 
-[Live Link]()
+[Live Link](https://lucid-jackson-b16f95.netlify.app/)
 
 
 
