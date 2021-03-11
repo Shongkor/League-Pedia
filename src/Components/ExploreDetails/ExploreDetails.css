@@ -1,0 +1,28 @@
+.icon{
+    font-size: 50px;
+    margin: 10px;
+}
+.exploreImg{
+    width: 400px;
+    padding: 40px;
+}
+.infoContainer{
+    background-color: rgb(255, 2, 2);
+}
+.infoIcon{
+    width: 20px;
+    margin-right: 10px;
+}
+.Banner{
+    background-image: url("https://st2.depositphotos.com/3725083/5486/i/600/depositphotos_54860225-stock-photo-stadium.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: bottom;
+}
+.detailContainer{
+    background-color: black;
+}
+.Font{
+    color: white;
+}

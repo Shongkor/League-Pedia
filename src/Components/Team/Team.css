@@ -1,0 +1,12 @@
+.singleCard{
+    margin: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.card{
+    display: inline-block;
+}
+
+.cardImg{
+    padding : 28px;
+}
